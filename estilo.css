@@ -1,0 +1,52 @@
+
+
+h1 {
+color: rgb(255, 0, 0);
+text-align: center
+
+}
+
+
+h2{
+text-align: center;
+color: rgb(255, 0, 0);
+
+}
+
+
+body {
+background-image: url(https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/200903/20091222102310-0_0.jpg?itok=SqUZdhKC);
+background-color: darkgrey;
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+
+p {
+text-align: center;
+font-style: italic;
+margin-left: 500px;
+margin-right: 500px;
+color: rgb(255, 255, 255);
+
+}
+
+img {
+    
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto
+}
+
+
+ul {
+border:solid;
+background-color: rgb(255, 50, 50) ;
+
+}
+
+li {
+
+    color: rgb(0, 0, 0);
+}
